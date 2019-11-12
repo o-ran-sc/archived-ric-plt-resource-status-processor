@@ -1,0 +1,11 @@
+logging:
+  logLevel: info
+http:
+  port: 4802
+rmr:
+  port: 4803
+  maxMsgSize: 65536
+  readyIntervalSec: 1
+rnib:
+  maxRnibConnectionAttempts: 3
+  rnibRetryIntervalMs: 10
