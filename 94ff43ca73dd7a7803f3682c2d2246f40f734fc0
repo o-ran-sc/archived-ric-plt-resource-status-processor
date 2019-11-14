@@ -1,0 +1,7 @@
+Code-Review+2: Thoralf Czichy <thoralf.czichy@nokia.com>
+Verified+1: ORAN Jobbuilder <releng+oran-jobbuilder@linuxfoundation.org>
+Submitted-by: Shuky Har-Noy <shuky.har-noy@intl.att.com>
+Submitted-at: Thu, 14 Nov 2019 12:09:36 +0000
+Reviewed-on: https://gerrit.o-ran-sc.org/r/c/ric-plt/resource-status-processor/+/1460
+Project: ric-plt/resource-status-processor
+Branch: refs/heads/master
